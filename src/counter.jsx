@@ -7,7 +7,7 @@ export default class Counter extends Component {
         return (
             <Fragment>
                 <div>{this.state.value}</div>
-                <button onClick={() => { console.log('clicked'); }}>Increment</button>
+                <button onClick={() => { this.setState({value:this.state.value + 1}) }}>Increment</button>
 
             </Fragment>
 
