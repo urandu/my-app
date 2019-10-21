@@ -5,4 +5,4 @@ import Counter from './counter';
 
 const element = <h1>Hello World</h1>;
 
-ReactDOM.render(< Counter name={''}/>, document.getElementById('root'));
+ReactDOM.render(< Counter />, document.getElementById('root'));
