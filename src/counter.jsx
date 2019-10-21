@@ -4,7 +4,10 @@ export default class Counter extends Component{
     state = {value:1};
 
     render(){
-        return <div>{this.state.value}</div>;
+        return (
+            <div>{this.state.value}</div>
+            <button onclick={()=>console.log('clicked');}>Increament</button>
+        );
     }
 
 }
