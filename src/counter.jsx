@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
-export default class Counter extends Component{
-    state = {value:1};
+export default class Counter extends Component {
+    state = {value: 1};
 
-    render(){
+    render() {
         return (
             <div>{this.state.value}</div>
-            <button onclick={()=>console.log('clicked');}>Increament</button>
+            
         );
     }
 
