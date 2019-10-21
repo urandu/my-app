@@ -5,9 +5,9 @@ export default class Counter extends Component {
 
     render() {
         return (
-            <div>{this.state.value}</div>
-            
-        );
+            <div>{ this.state.value }</div>
+            <button onClick={() => { console.log('clicked'); }>Increment</button>
+    );
     }
 
 }

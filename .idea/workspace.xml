@@ -43,13 +43,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="121" />
-          <entry key="jsx" value="205" />
+          <entry key="jsx" value="221" />
           <entry key="sh" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSX Harmony" value="205" />
+          <entry key="JSX Harmony" value="221" />
           <entry key="JavaScript" value="121" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
@@ -210,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571629954156</updated>
-      <workItem from="1571629956583" duration="3323000" />
+      <workItem from="1571629956583" duration="3500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3323000" />
+    <option name="totallyTimeSpent" value="3500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
